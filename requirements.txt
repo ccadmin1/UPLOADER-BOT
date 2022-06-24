@@ -1,4 +1,5 @@
-numpy
+
+git+https://github.com/subinps/pyrogram@inline-mnumpy
 Pillow
 aiohttp
 hachoir
